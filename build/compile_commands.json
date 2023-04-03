@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/ccc/Desktop/coroutine/build",
+  "command": "/usr/bin/g++   -I../  -g   -o CMakeFiles/timer.dir/coroutine.cpp.o -c /home/ccc/Desktop/coroutine/coroutine.cpp",
+  "file": "/home/ccc/Desktop/coroutine/coroutine.cpp"
+},
+
+{
+  "directory": "/home/ccc/Desktop/coroutine/build",
+  "command": "/usr/bin/g++   -I../  -g   -o CMakeFiles/timer.dir/main.cpp.o -c /home/ccc/Desktop/coroutine/main.cpp",
+  "file": "/home/ccc/Desktop/coroutine/main.cpp"
+}
+]
